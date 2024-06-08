@@ -1,0 +1,122 @@
+{
+    "editor.tabCompletion": "on",
+    "files.autoSave": "afterDelay",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "python.pythonPath": "/opt/anaconda3",
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.defaultInterpreterPath": "/opt/anaconda3",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.tools": [
+    
+
+        {
+            "name": "latexmk",
+            "command": "latexmk",
+            "args": [
+             "-e",
+             "$latex=q/uplatex %O -kanji=utf8 -no-guess-input-enc -synctex=1 -interaction=nonstopmode -file-line-error %S/",
+             "-e",
+             "$bibtex=q/upbibtex %O %B/",
+             "-e",
+             "$biber=q/biber %O --bblencoding=utf8 -u -U --output_safechars %B/",
+             "-e",
+             "$makeindex=q/upmendex %O -o %D %S/",
+             "-e",
+             "$dvipdf=q/dvipdfmx %O -o %D %S/",
+             "-norc",
+             "-gg",
+             "-pdfdvi",
+             "%DOC%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "lualatexmk",
+            "command": "latexmk",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-lualatex",
+                "-outdir=%OUTDIR%",
+                "%DOC%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "latexmk_rconly",
+            "command": "latexmk",
+            "args": [
+                "%DOC%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "pdflatex",
+            "command": "pdflatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "%DOC%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "bibtex",
+            "command": "bibtex",
+            "args": [
+                "%DOCFILE%"
+            ],
+            "env": {}
+        },
+        {
+            "name": "rnw2tex",
+            "command": "Rscript",
+            "args": [
+                "-e",
+                "knitr::opts_knit$set(concordance = TRUE); knitr::knit('%DOCFILE_EXT%')"
+            ],
+            "env": {}
+        },
+        {
+            "name": "jnw2tex",
+            "command": "julia",
+            "args": [
+                "-e",
+                "using Weave; weave(\"%DOC_EXT%\", doctype=\"tex\")"
+            ],
+            "env": {}
+        },
+        {
+            "name": "jnw2texmintex",
+            "command": "julia",
+            "args": [
+                "-e",
+                "using Weave; weave(\"%DOC_EXT%\", doctype=\"texminted\")"
+            ],
+            "env": {}
+        },
+        {
+            "name": "tectonic",
+            "command": "tectonic",
+            "args": [
+                "--synctex",
+                "--keep-logs",
+                "%DOC%.tex"
+            ],
+            "env": {}
+        }
+    ],
+    "git.autofetch": true
+}
