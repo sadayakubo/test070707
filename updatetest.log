@@ -1,49 +1,59 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2019.1.12)  10 JUN 2024 11:45
+This is e-upTeX, Version 3.14159265-p3.8.3-u1.26-191112-2.6 (utf8.uptex) (TeX Live 2020) (preloaded format=uplatex 2021.2.17)  10 JUN 2024 12:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex
-(/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex
-pLaTeX2e <2018-04-01u02>+1 (based on LaTeX2e <2018-04-01> patch level 2)
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2018/texmf-dist/tex/uplatex/base/ujarticle.cls
-Document Class: ujarticle 2018/02/04 v1.7h-u00 Standard upLaTeX class
-\c@@paper=\count83
-(/usr/local/texlive/2018/texmf-dist/tex/uplatex/base/ujsize10.clo
-File: ujsize10.clo 2018/02/04 v1.7h-u00 Standard upLaTeX file (size option)
+**/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex
+(/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex
+pLaTeX2e <2020-02-02u03>+3 (based on LaTeX2e <2020-02-02> patch level 5)
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/uplatex/base/ujarticle.cls
+Document Class: ujarticle 2020/01/03 v1.8e-u00 Standard upLaTeX class
+\c@@paper=\count166
+(/usr/local/texlive/2020/texmf-dist/tex/uplatex/base/ujsize10.clo
+File: ujsize10.clo 2020/01/03 v1.8e-u00 Standard upLaTeX file (size option)
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 28.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 28.
 )
-\c@part=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\c@figure=\count90
-\c@table=\count91
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
 \symmincho=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 615.
-\toclineskip=\dimen118
-\@lnumwidth=\dimen119
-\bibindent=\dimen120
-\heisei=\count92
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 616.
+\toclineskip=\dimen150
+\@lnumwidth=\dimen151
+\bibindent=\dimen152
+\heisei=\count175
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
+\l__pdf_internal_box=\box61
+\g__pdf_backend_object_int=\count176
+\l__pdf_backend_content_box=\box62
+\l__pdf_backend_model_box=\box63
+\g__pdf_backend_annotation_int=\count177
+\g__pdf_backend_link_int=\count178
+\g__pdf_backend_link_sf_int=\count179
 ) (./updatetest.aux)
 \openout1 = `updatetest.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -75,19 +85,27 @@ LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 7.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 7.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT2/gt/m/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 7.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 7.
  (./updatetest.toc
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JT2/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY2/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
@@ -100,12 +118,12 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 
 ] (./updatetest.aux) ) 
 Here is how much of TeX's memory you used:
- 298 strings out of 493270
- 3324 string characters out of 6145018
- 67327 words of memory out of 5000000
- 4310 multiletter control sequences out of 15000+600000
- 11446 words of font info for 53 fonts, out of 8000000 for 9000
+ 462 strings out of 481134
+ 7482 string characters out of 5917333
+ 248219 words of memory out of 5000000
+ 16572 multiletter control sequences out of 15000+600000
+ 540144 words of font info for 63 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 24i,6n,20p,193b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,6n,22p,211b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on updatetest.dvi (1 page, 1640 bytes).
+Output written on updatetest.dvi (1 page, 1660 bytes).
