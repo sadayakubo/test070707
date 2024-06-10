@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1717985085 "updatetest.dvi" "updatetest.pdf" "updatetest" 1717985086
-  "updatetest.dvi" 1717985085 1544 87a063174ca7bf302edacf101e04265a "latex"
+["dvipdf"] 1717986670 "updatetest.dvi" "updatetest.pdf" "updatetest" 1717986670
+  "updatetest.dvi" 1717986670 1544 c81192ce2b0394c10feee01d3d4b371c "latex"
   (generated)
   "updatetest.pdf"
-["latex"] 1717985085 "/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex" "updatetest.dvi" "updatetest" 1717985086
-  "/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex" 1717985084 693 09ca708fd49d26031e6d16e16af9be29 ""
+["latex"] 1717986669 "/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex" "updatetest.dvi" "updatetest" 1717986670
+  "/Users/sadayakubo/git/hogetest060608/test070707/updatetest.tex" 1717986669 693 09ca708fd49d26031e6d16e16af9be29 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -27,11 +27,11 @@
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/euptex/uplatex.fmt" 1547266403 4470727 98b9d407cc8334c431abed706a9d64a9 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "updatetest.aux" 1717985085 186 0689199f307a4455da2c285f49669690 ""
-  "updatetest.tex" 1717985084 693 09ca708fd49d26031e6d16e16af9be29 ""
-  "updatetest.toc" 1717985085 142 8f6e00494cdf1f2e9f6505e8c34f3540 ""
+  "updatetest.aux" 1717986670 186 0689199f307a4455da2c285f49669690 ""
+  "updatetest.tex" 1717986669 693 09ca708fd49d26031e6d16e16af9be29 ""
+  "updatetest.toc" 1717986670 142 8f6e00494cdf1f2e9f6505e8c34f3540 ""
   (generated)
   "updatetest.aux"
+  "updatetest.log"
   "updatetest.dvi"
   "updatetest.toc"
-  "updatetest.log"
