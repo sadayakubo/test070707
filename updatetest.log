@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2019.1.12)  10 JUN 2024 10:15
+This is e-upTeX, Version 3.14159265-p3.8.0-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2019.1.12)  10 JUN 2024 11:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -96,16 +96,22 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 \tf@toc=\write3
 \openout3 = `updatetest.toc'.
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
  [1
 
 ] (./updatetest.aux) ) 
 Here is how much of TeX's memory you used:
- 298 strings out of 493270
- 3324 string characters out of 6145018
- 66327 words of memory out of 5000000
- 4310 multiletter control sequences out of 15000+600000
+ 315 strings out of 493270
+ 3626 string characters out of 6145018
+ 67327 words of memory out of 5000000
+ 4324 multiletter control sequences out of 15000+600000
  11446 words of font info for 53 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  24i,6n,20p,193b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on updatetest.dvi (1 page, 1124 bytes).
+Output written on updatetest.dvi (1 page, 1596 bytes).

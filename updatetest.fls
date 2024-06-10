@@ -37,5 +37,7 @@ INPUT updatetest.toc
 INPUT updatetest.toc
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT updatetest.toc
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 OUTPUT updatetest.dvi
 INPUT updatetest.aux
