@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1717984175 "updatetest.dvi" "updatetest.pdf" "updatetest" 1717984176
-  "updatetest.dvi" 1717984175 1564 3a9fe4d5ae474e1d8d37d5c72489ac7a "latex"
+["dvipdf"] 1717984638 "updatetest.dvi" "updatetest.pdf" "updatetest" 1717984639
+  "updatetest.dvi" 1717984638 1564 62c5707f254abd0abcd9a8e31bba20a8 "latex"
   (generated)
   "updatetest.pdf"
-["latex"] 1717984175 "/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex" "updatetest.dvi" "updatetest" 1717984176
-  "/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex" 1717984175 693 09ca708fd49d26031e6d16e16af9be29 ""
+["latex"] 1717984638 "/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex" "updatetest.dvi" "updatetest" 1717984639
+  "/Users/kubosadaya/Desktop/gittest/test070707/updatetest.tex" 1717984638 693 09ca708fd49d26031e6d16e16af9be29 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -28,11 +28,11 @@
   "/usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf" 1583102494 39451 60d7debd9ef8ece44cbe965493576c2d ""
   "/usr/local/texlive/2020/texmf-var/web2c/euptex/uplatex.fmt" 1613541559 2441668 f8c3c29ca77025bafd7157247f5319be ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "updatetest.aux" 1717984175 234 abb2de773b4fbe374a9827b75600c486 "latex"
-  "updatetest.tex" 1717984175 693 09ca708fd49d26031e6d16e16af9be29 ""
-  "updatetest.toc" 1717984175 144 441f7ed9adaccd5916f57370eb8ea20f "latex"
+  "updatetest.aux" 1717984638 234 abb2de773b4fbe374a9827b75600c486 "latex"
+  "updatetest.tex" 1717984638 693 09ca708fd49d26031e6d16e16af9be29 ""
+  "updatetest.toc" 1717984638 144 441f7ed9adaccd5916f57370eb8ea20f "latex"
   (generated)
-  "updatetest.dvi"
-  "updatetest.aux"
-  "updatetest.log"
   "updatetest.toc"
+  "updatetest.dvi"
+  "updatetest.log"
+  "updatetest.aux"
